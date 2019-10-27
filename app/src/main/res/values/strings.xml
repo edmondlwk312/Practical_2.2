@@ -1,3 +1,23 @@
 <resources>
-    <string name="app_name">Practical_2.2</string>
+    <string name="app_name">Practical_2.1</string>
+    <string name="name2">Lai Wui Kien</string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="imageTest">imageTest</string>
+    <string name="bio">
+        \n\nGood Morning.
+        \n\nMy name is Lai Wui Kien also can call me as Edmond
+        \n\nI am 21 years old.
+        \n\nI am from Serdang mean i always travel to school by train everyday.
+        \n\nI am student of Tunk Abdul Rahman University College. My student ID 19WMR09611.
+        \n\nI study the course is Bachelor of Information Technology (Honours) in Software Systems Development (RSD) Year 2 Semester 2.
+        \n\nI choosing IT course because of nowaday is technology era so i hope i can follow the step to reach the technology target.
+        \n\nActually i am not interest in IT but is Psychology. Because of that reason so i choose IT course.
+        \n\nWhen i first time touch IT course especially programming course i feel very difficult of it.
+        \n\nI very hate programming but now i already study and never give up to complete my Diploma level and graduate.
+        \n\nI hope i can done my Degree level.
+        \n\nGood Luck!
+        \n\n
+    </string>
+    <string name="yellow_star2">Yellow star 2</string>
+
 </resources>
